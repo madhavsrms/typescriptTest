@@ -1,0 +1,6 @@
+/**difference between let and var **/
+
+var a1 = "test";
+var b1 = "test 2";
+for (int i = 0;i<10;i++){
+}
